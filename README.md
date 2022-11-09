@@ -1,2 +1,2 @@
 # Matias Carbel
-[a relative link](CV.md)
+[CV](CV.md)
